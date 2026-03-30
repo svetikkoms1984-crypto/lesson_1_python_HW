@@ -1,0 +1,13 @@
+def value(num):
+    print(num, end="")
+value(8)
+value(8)
+value(0)
+value(0)
+value(5)
+value(5)
+value(5)
+value(3)
+value(5)
+value(3)
+value(5)
